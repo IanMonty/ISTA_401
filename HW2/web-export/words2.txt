@@ -1,0 +1,17 @@
+CONTRACTION:it's,I'm,I'll,I've,I'd,it'll,we're
+NOUN:Christmas,morning,noun,coke,datebook,top,gold,silver,lettered,glass,champagne,summer,realization,desk,mother,edge,couch,living room,father,phone number,bathing suit,water,expanse,sand,beach,club,country_club,pool,album,looker,room,ocean,radio,gas station,gas,car,tan_line,one-piece,chest,tape-deck,window,wind,guy,sun,bench,song,name,rum,attendant,parking_attendant,home,convertible,oil,yard,lunch,couple,bunch
+PLURAL_NOUN:sisters,pages,dates,things,months,people,songs,legs,minutes,directions,checks,gifts
+CONJUNCTION:and,or,but,if
+ADJECTIVE:pretty,expensive,leather-bound,big,white,out,confused,unused,blank,indifferent,other,portable,gorgeous,hot,sunny,warm,same,neat,hard,great,adjective,new,ready
+PROPER_NOUN:Coke,New_Hampshire,Kim,Blair,Alana,Rip,Griffin,Moose,Cedars-Sinai,Porche,INXS,Deborah_Harry,Mercedes,Cadillac,Psychedelic_Furs,Blondie,Friday,Julian,Muriel
+PREPOSITION:of,with,before,for,of,to,after,at,in,over,on
+ADVERB:off,elegantly,out,down,just,probably,back,casually,where,there,here,together,totally,practically,eventually,really,again,when,soon,also,so,around,up
+POSSESSIVE_DETERMINER:my,his,their
+POSSESSIVE_PRONOUN:someone's
+DETERMINER:another,enough,the,some,each
+PAST_PARTICIPLE_VERB:given
+PRONOUN: me,this,she,herself,that,I,her,everyone,anyone,who,him,all,they,he,what,you,it,we,us
+PAST_TENSE_VERB:printed,tried,came,remembered,written,smuggled,called,wanted,got,brought,slept,exposed
+PLURAL_PRONOUN:them
+VERB:thank,kiss,smiles,pours,keep,work,works,write,get,take,takes,lie,use,know,knows,blank,watches,sitting,sipping,looks,look,looking,drives,drive,parks,writing,drinking,introduce,laugh,stare,staring,pumps,care,tanning,tan,wonder,decide,exclaims,blowing,meets,does,disappear,sit,stops,stop,asks,asking,ask,talking,talk,concentrates,get,getting,seems,playing,go,goes,are,has,checks,is,mentions,turning,turn,wait,says,have,tells,tell,shrieks,believe,need
+CARDINAL_NUMBER:three,four,one
